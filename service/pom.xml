@@ -18,8 +18,9 @@
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
         <dependency>
-            <groupId></groupId>
+            <groupId>com.test</groupId>
             <artifactId>com</artifactId>
+
         </dependency>
     </dependencies>
 
