@@ -19,8 +19,7 @@
         </dependency>
         <dependency>
             <groupId>com.test</groupId>
-            <artifactId>com</artifactId>
-
+            <artifactId>common</artifactId>
         </dependency>
     </dependencies>
 
